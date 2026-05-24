@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "download_url": "https://github.com/ivory-developer-cihan/Gunen-Insaat/releases/download/v2.0/Gunen_v2.0.exe",
+  "download_url": "https://github.com/ivory-developer-cihan/Gunen-Insaat/releases/download/v2.0/Gunen.exe",
   "changelog": "• Yeni SMS Gönderme Sistemi eklendi\n• Randevu ekranı düzeltildi\n• Performans iyileştirmeleri",
   "required": false
 }
